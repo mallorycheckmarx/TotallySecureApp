@@ -18,3 +18,4 @@ resource "alicloud_ram_account_password_policy" "corporate2" {
   password_reuse_prevention    = 5
   max_login_attempts           = 3
 }
+
